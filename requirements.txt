@@ -1,0 +1,3 @@
+pip install flask ngrok pyngrok scikit-learn joblib pandas firebase-admin
+ngrok authtoken 'YOUT NGROK TOKEN'
+
